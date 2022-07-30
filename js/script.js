@@ -6,5 +6,6 @@ const nav = document.querySelector('.nav');
 btn.addEventListener('click', () => {
     btn.classList.toggle('open');
     nav.classList.toggle('flex');
-    nav.classList.toggle('hidden')
-})
+    nav.classList.toggle('hidden');
+    
+});
