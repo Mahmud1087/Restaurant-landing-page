@@ -1,7 +1,7 @@
 # What is this project?
 This project is a one page responsive restaurant website made with tailwindcss
 
-This is the link to the project on netlify: www.foodex-restaurant.netlify.app
+This is the link to the project on netlify: https://foodex-restaurant.netlify.app/
 
 ## What is the goal of this project?
 My goal for this project is to practice my web development skills and also to practice how to use tailwindcss to build highly responive websites
